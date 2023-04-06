@@ -1,0 +1,22 @@
+{
+  "name": "test-nodejs-commander",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciskone/test-nodejs-commander.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciskone/test-nodejs-commander/issues"
+  },
+  "homepage": "https://github.com/franciskone/test-nodejs-commander#readme",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
